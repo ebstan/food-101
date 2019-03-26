@@ -11,6 +11,7 @@ Multi-Class Image Classification
 ## Library/Language:
 1. Python
 2. Deep Learning: Fast.AI, PyTorch
+3. Production: Render, Flask
 
 ## Data:
 https://www.vision.ee.ethz.ch/datasets_extra/food-101/
