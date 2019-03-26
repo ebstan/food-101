@@ -22,7 +22,7 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 ## Future Work:
 - Test Time Augmentations (TTA) 
 - Use USDA API to retrieve nutritional information 
-<a href="https://ndb.nal.usda.gov/ndb/doc/index">
+<a href="https://ndb.nal.usda.gov/ndb/doc/index"></a>
 - Extend capabilities to mobile + live objective detection
 
 
