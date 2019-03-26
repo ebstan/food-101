@@ -1,15 +1,16 @@
 ## Objectives: 
 Classify images of food into different classes (101) using Deep Learning.
-<img src="img/result.png">
 
 Live demo: http://food101.onrender.com
 
+<img src="img/result.png">
+
 ## Challenge:
-Computer vision
+Multi-Class Image Classification
 
 ## Library/Language:
 1. Python
-2. Deep Learning: Fast.ai, PyTorch
+2. Deep Learning: Fast.AI, PyTorch
 
 ## Data:
 https://www.vision.ee.ethz.ch/datasets_extra/food-101/
@@ -21,8 +22,7 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 
 ## Future Work:
 - Test Time Augmentations (TTA) 
-- Use USDA API to retrieve nutritional information 
-<a href="https://ndb.nal.usda.gov/ndb/doc/index">USDA Food Composition Databases</a>
-- Extend capabilities to mobile + live objective detection
+- Use USDA API to retrieve nutritional information  |  <a href="https://ndb.nal.usda.gov/ndb/doc/index">USDA Food Composition Databases</a>
+- Extend mobile capabilitiese + live objective detection
 
 
